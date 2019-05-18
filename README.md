@@ -81,7 +81,7 @@ Windows：按下win+r，输入`cmd`，回车，进入cmd命令行界面。输入
             
 ## 作者列表
 
-*zhangle*
+*gaozhiguang*
 
 ## 历史版本
 
